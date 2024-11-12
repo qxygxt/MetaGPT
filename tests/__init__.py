@@ -5,3 +5,4 @@
 @Author  : alexanderwu
 @File    : __init__.py
 """
+print("tests/__init__.py)
